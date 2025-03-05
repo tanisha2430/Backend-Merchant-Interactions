@@ -49,3 +49,9 @@ const getMerchantByID = async (req, res) => {
 };
 
 module.exports = { createMerchant, getMerchants,getMerchantByID };
+
+
+
+
+
+
